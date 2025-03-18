@@ -14,7 +14,7 @@ document.addEventListener("DOMContentLoaded", function () {
         "Op deze locatie zijn een aantal bankjes aanwezig.",
         "Ga op zoek naar een bankje waar een grote boom voor staat.",
         "Achterop het bankje zit een witte enveloppe vastgeplakt, waar een code in zit.",
-        "Ontrafel deze code en voer hem in aan het einde van deze verhaal.",
+        "Ontrafel deze code en voer hem in aan het einde van dit verhaal.",
         "Tot deze tijd kan je je vriend niet bereiken.",
         "Ik heb wel zijn telefoon en kan via WhatsApp jou bereiken.",
         "Zijn locatie staat uit, laat die van jou aan. We houden contact.",
