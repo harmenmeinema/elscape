@@ -16,7 +16,7 @@ document.addEventListener("DOMContentLoaded", function () {
         "Achterop het bankje zit een witte enveloppe vastgeplakt, waar een code in zit.",
         "Ontrafel deze code en voer hem in aan het einde van deze verhaal.",
         "Tot deze tijd kan je je vriend niet bereiken.",
-        "Ik heb wel zijn telefoon en kan via WhatsApp jou bereiken."
+        "Ik heb wel zijn telefoon en kan via WhatsApp jou bereiken.",
         "Zijn locatie staat uit, laat die van jou aan. We houden contact.",
         "Succes! Stel je vriend niet teleur.",
         "Groet, Mr. X",
