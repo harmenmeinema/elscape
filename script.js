@@ -4,9 +4,9 @@ document.addEventListener("DOMContentLoaded", function () {
         "Ik snap dat je je afvraagt wat er gebeurt.",
         "Jouw vriend is in groot gevaar, en jij zult hem moeten redden.",
         "Doe dit zo snel mogelijk, voordat hij in verkeerde handen valt.",
-        "Donderdag 20 maart om stipt 8 uur wordt hij door een criminele bende opgehaald op een geheime locatie.",
-        "Zorg ervoor dat je daarvoor je vriend ophaalt en zo uit handen van de bende houdt.",
-        "Een kwartier van tevoren wordt hij hier gedumpt en kan je hem dus ophalen.",
+        "Donderdag 20 maart om stipt 8 uur wordt hij door een criminele bende opgehaald.",
+        "Zorg ervoor dat je daarvoor je vriend redt en zo uit handen van de bende houdt.",
+        "Een kwartier eerder wordt hij op een geheime locatie achtergelaten.",
         "Om achter deze locatie te komen, zal je eerst een code moeten vinden.",
         "Deze code moet je invoeren aan het eind van dit verhaal en leidt tot een geheime pagina.",
         "Om achter die code te komen, zul je op zoek moeten gaan.",
@@ -15,6 +15,9 @@ document.addEventListener("DOMContentLoaded", function () {
         "Ga op zoek naar een bankje waar een grote boom voor staat.",
         "Achterop het bankje zit een witte enveloppe vastgeplakt, waar een code in zit.",
         "Ontrafel deze code en voer hem in aan het einde van deze verhaal.",
+        "Tot deze tijd kan je je vriend niet bereiken.",
+        "Ik heb wel zijn telefoon en kan via WhatsApp jou bereiken."
+        "Zijn locatie staat uit, laat die van jou aan. We houden contact.",
         "Succes! Stel je vriend niet teleur.",
         "Groet, Mr. X",
         "Voer hier de 6-cijferige code in om verder te gaan:"
