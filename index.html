@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Escaperoom Puzzel</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <div class="container">        
+        <audio id="typesound" src="typewriter.mp3"></audio>
+        
+        <button id="startBtn">START</button>
+
+        <p id="text"></p>
+        <div id="input-container" style="display: none;">
+            <input type="text" id="codeInput" placeholder="Voer code in" maxlength="6">
+        </div>
+    
+        <div class="buttons">
+            <button id="skipBtn">SKIP</button>
+            <button id="prevBtn">TERUG</button>
+            <button id="nextBtn">NEXT</button>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
